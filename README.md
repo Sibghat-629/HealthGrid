@@ -1,4 +1,4 @@
-# Hospital Inventory System
+# HealthGrid ( A Hospital Inventory System )
 
 A comprehensive hospital inventory management system built with C# and Windows Forms.
 
